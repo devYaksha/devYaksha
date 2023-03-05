@@ -1,5 +1,5 @@
-# Olá, eu sou Guilherme Santos, 
-## Aluno da Faculdade Federal de Ouro Preto.
+# Olá, eu sou Guilherme Santos; 
+### Aluno da Faculdade Federal de Ouro Preto.
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
