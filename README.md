@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme Santos, estudante de programação.
+## Olá, eu sou Guilherme Santos.
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
