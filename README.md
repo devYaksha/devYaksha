@@ -1,5 +1,6 @@
-#Olá, eu sou Guilherme Santos, estudante de programação na UFOP!
+# Olá, eu sou Guilherme Santos, estudante de programação na UFOP!
 <div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
