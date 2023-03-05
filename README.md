@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme Santos, estudante de programação na   <img align="center" alt="Rafa-Csharp" height="50" width="25" src="https://neccint.files.wordpress.com/2011/08/ufop-logo.jpg">
+# Olá, eu sou Guilherme Santos, estudante de programação.
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,5 +17,5 @@
 </div>
  
 <div> 
- <a href="482700094630526980" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/J67c9XCr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
