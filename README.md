@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
-  <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://neccint.files.wordpress.com/2011/08/ufop-logo.jpg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="30" src="https://neccint.files.wordpress.com/2011/08/ufop-logo.jpg">
   
 
 </div>
