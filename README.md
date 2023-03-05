@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme Santos, estudante de programação na <img align="center" alt="Rafa-Csharp" height="50" width="20" src="https://neccint.files.wordpress.com/2011/08/ufop-logo.jpg">!
+# Olá, eu sou Guilherme Santos, estudante de programação na   <img align="center" alt="Rafa-Csharp" height="50" width="25" src="https://neccint.files.wordpress.com/2011/08/ufop-logo.jpg">
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
