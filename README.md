@@ -1,7 +1,5 @@
 # Olá, eu sou Guilherme Santos, estudante de programação na UFOP!
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devYaksha)](https://github.com/anuraghazra/github-readme-stats)
 <div>
@@ -12,6 +10,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+  <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://neccint.files.wordpress.com/2011/08/ufop-logo.jpg">
+  
 
 </div>
   
